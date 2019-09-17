@@ -2,8 +2,6 @@
 
 fork from [zhisheng17/blog](https://github.com/zhisheng17/blog) 
 
-`blog` 使用了轻量级 mvc 框架 `Blade` 开发，默认主题使用了漂亮的 `pinghsu` 。
-
 1. 通过改项目熟悉了springboot基础使用，整合第三方常用服务，第三方库
 2. 加入对象存储,redis,mongo,模板语言等
 4. 整合shiro，搭建通用基础后台系统
